@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TopTenDownload</string>
+    <string name="paid_apps_menu_item">Paid Android Applications</string>
+    <string name="free_apps_menu_item">Free Android Applications</string>
+    <string name="songs_menu_item">Top Charts</string>
+    <string name="top10_menu_item">Top 10</string>
+    <string name="top25_menu_item">Top 25</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+                android:title="@string/paid_apps_menu_item"
+                android:id="@+id/paid_application_menu_item"/>
+
+        <item
+                android:title="@string/free_apps_menu_item"
+                android:id="@+id/free_apps_menu_item"/>
+
+        <item
+                android:title="@string/songs_menu_item"
+                android:id="@+id/songs_menu_item"/>
+
+    </group>
+
+    <group android:id="@+id/top_size_group" android:checkableBehavior="single">
+        <item
+                android:title="@string/top10_menu_item"
+                android:id="@+id/top10_menu_item" android:checked="true"/>
+        <item
+                android:title="@string/top25_menu_item"
+                android:id="@+id/top25_menu_item"/>
+
+    </group>
+
+</menu>
